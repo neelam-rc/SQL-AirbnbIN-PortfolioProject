@@ -21,6 +21,6 @@ Data Cleaning Steps taken:
 
 
 ## 🛠 Skills
-SQL, Spreadsheet (Excel, Goole Sheet), Tableau, HTML
+SQL, Spreadsheet (Excel, Google Sheets), Tableau.
 
 
